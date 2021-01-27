@@ -5,3 +5,5 @@
 /.vs
 /Jenkins_demo/obj
 /Jenkins_demo/bin/Debug/netcoreapp3.1
+/Jenkins_demo/bin/Release/netcoreapp3.1
+/Jenkins_demo/Properties/PublishProfiles
